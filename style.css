@@ -1,1 +1,25 @@
-test
+.header {
+ font-family: roboto, sans-serif;
+ font-size: 22px
+}
+
+.body {
+	background-color: #444444;
+	color:#bebebe;
+	text-align: center;
+}  
+
+.h3 {
+	height: ;
+}
+
+.article {
+	font-family: roboto, sans-serif;
+	padding: ;
+	margin: ;
+}
+
+.hr {
+	border: 5px solid #082c6c;
+	border-radius: 5px;
+}
