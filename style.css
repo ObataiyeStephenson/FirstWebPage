@@ -10,16 +10,28 @@
 }  
 
 .h3 {
-	height: ;
+	height: 15px;
 }
 
 .article {
 	font-family: roboto, sans-serif;
-	padding: ;
-	margin: ;
+	font-size: large;
+	
 }
 
 .hr {
 	border: 5px solid #082c6c;
-	border-radius: 5px;
+	border-radius: 100%;
+}
+
+img {
+	border-radius: 50%;
+	max-width: 50%;
+	height: 250px;
+
+}
+
+a:link {
+	color:#bebebe;
+	
 }
